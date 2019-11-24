@@ -1,5 +1,3 @@
-#dante-tunnel-docker
-
 This docker container turns an existing VPN tunnel into a SOCKS proxy.
 
 Notice: It needs to be run inside a network that provides tun0, else it'll be stuck waiting for the device to show up!
